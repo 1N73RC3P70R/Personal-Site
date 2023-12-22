@@ -1,6 +1,6 @@
 Good day, call me K.K.
 
-🔭 I’m currently working on - Weather
+🔭 I’m currently working on - Weather App
 
 📫 Write to me - kras.konstantinov@yandex.ru
 
